@@ -1,0 +1,12 @@
+Ar condicionado
+
+Atributos:
+marca
+cor
+capacidade
+status
+
+métodos:
+aquecer
+esfriar
+ventilar

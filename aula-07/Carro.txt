@@ -1,0 +1,34 @@
+Carro - para revenda de carros
+
+Atributos:
+	cor
+	quantidade de portas
+	ano
+	quilometragem
+	modelo
+	marca
+	estado
+	valor
+
+Métodos:
+	mudarValor
+
+
+
+
+
+
+Carro - para jogo formula 1
+
+Atributos:
+	cor
+	marca
+	velocidade
+	modelo
+	estado
+	tipoPneu
+
+Métodos:
+	acelerar
+	frear
+	mostrarVelocidade
